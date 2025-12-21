@@ -48,12 +48,5 @@
 
 ---
 
-## ✨ Optional Futuristic Additions
-1. **Animated neon GIFs**: Add hacker or cyber grid GIFs using `![alt](link)`  
-2. **Cyber-style ASCII header**: Use a generator like [https://patorjk.com/software/taag/](https://patorjk.com/software/taag/)  
-3. **Badges for achievements**: GitHub Actions, Hackathons, Certifications  
-4. **Dark neon theme stats**: Use `theme=radical` or `theme=dark` in GitHub stats URLs  
-
----
 
 
