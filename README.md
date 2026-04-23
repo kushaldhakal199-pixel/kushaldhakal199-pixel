@@ -23,7 +23,7 @@
 Name     : Kushal Dhakal
 
 Study    : BSc CS — Cybersecurity & Digital Forensics @ APU
-Semester : 4th Semester
+
 
 Focus    : Offensive Security | Network Security | Digital Forensics
 ```
@@ -40,11 +40,7 @@ Focus    : Offensive Security | Network Security | Digital Forensics
 - Digital Forensics · Network Monitoring · Log Analysis
 - Incident Response · Blue Teaming
 
-**Programming**
-- `Python` — Advanced (automation, tools, scripts)
-- `Go` — In Progress
-- `Rust` — In Progress
-- Bash Scripting
+
 
 **Certifications / Studying**
 - CompTIA Security+ (SY0-701)
