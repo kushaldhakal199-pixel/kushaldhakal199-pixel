@@ -52,9 +52,9 @@ Focus    : Offensive Security | Network Security | Digital Forensics
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔌 USB Event Detection & Monitoring System | Detects and logs USB plug/unplug events in real time for endpoint security monitoring | Python |
-| 📧 SafeMail — Phishing Scanner | Analyzes emails for phishing indicators including suspicious links, spoofed headers, and social engineering patterns | Python |
-| 🔓 Hashcat PDF Cracking Lab | Practical lab demonstrating password hash extraction from PDFs and offline cracking using Hashcat | Hashcat, P
+| 🔌 USB Event Detection & Monitoring System | Detects and logs USB plug/unplug events in real time for endpoint security monitoring |
+| 📧 SafeMail — Phishing Scanner | Analyzes emails for phishing indicators including suspicious links, spoofed headers, and social engineering patterns 
+| 🔓 Hashcat PDF Cracking Lab | Practical lab demonstrating password hash extraction from PDFs and offline cracking using Hashcat | Hashcat, 
 
 ---
 
