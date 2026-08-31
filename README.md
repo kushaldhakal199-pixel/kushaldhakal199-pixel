@@ -1,101 +1,179 @@
-<!-- Header -->
-<div align="center">
+# 🛡️ SOC Analyst | Cybersecurity
 
-```
-╔══════════════════════════════════════════════════════════╗
-║          root@kushal:~$ whoami                           ║
-║          > Cybersecurity Student |        ║
-╚══════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=SOC%20%7C%20Cybersecurity&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-# Kushal
-### BSc Computer Science — Cybersecurity & Digital Forensics
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&width=435&lines=Cybersecurity+%26+Digital+Forensics+Student;Ethical+Hacker+in+Training;CTF+Player+%7C+Pentesting+Enthusiast;Python+%7C+Go+%7C+Rust)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <b>🔐 Security Operations • Threat Detection • Incident Response • Network Security</b>
+</p>
 
 ---
 
-## $ cat about.txt
+## 🛡️ SOC & Security Tools
 
-```bash  
-Name     : Kushal Dhakal
+<p align="left">
 
-Study    : BSc CS — Cybersecurity & Digital Forensics @ APU
+<img src="https://cdn.simpleicons.org/splunk" width="55" height="55" />
+&nbsp;&nbsp;
 
+<img src="https://cdn.simpleicons.org/elastic" width="55" height="55" />
+&nbsp;&nbsp;
 
-Focus    : Offensive Security | Network Security | Digital Forensics
-```
+<img src="https://cdn.simpleicons.org/wazuh" width="55" height="55" />
+&nbsp;&nbsp;
 
----
+<img src="https://cdn.simpleicons.org/wireshark" width="55" height="55" />
+&nbsp;&nbsp;
 
-## $ ls skills/
+<img src="https://cdn.simpleicons.org/kalilinux" width="55" height="55" />
+&nbsp;&nbsp;
 
-**Offensive**
-- Penetration Testing · Ethical Hacking · CTF Challenges
-- Nmap · Metasploit · OWASP Top 10
+<img src="https://cdn.simpleicons.org/metasploit" width="55" height="55" />
+&nbsp;&nbsp;
 
-**Defensive**
-- Digital Forensics · Network Monitoring · Log Analysis
-- Incident Response · Blue Teaming
+<img src="https://cdn.simpleicons.org/fortinet" width="55" height="55" />
 
-
-
-**Certifications / Studying**
-- CompTIA Security+ (SY0-701)
-- CEH (Certified Ethical Hacker)
+</p>
 
 ---
 
-## $ ls projects/
+## 🌐 Networking
 
-| Project | Description | Stack |
-|---|---|---|
-| 🔌 USB Event Detection & Monitoring System | Detects and logs USB plug/unplug events in real time for endpoint security monitoring |
-| 📧 SafeMail — Phishing Scanner | Analyzes emails for phishing indicators including suspicious links, spoofed headers, and social engineering patterns 
-| 🔓 Hashcat PDF Cracking Lab | Practical lab demonstrating password hash extraction from PDFs and offline cracking using Hashcat | Hashcat, 
+<p align="left">
 
----
+<img src="https://cdn.simpleicons.org/cisco" width="55" height="55" />
+&nbsp;&nbsp;
 
-## $ cat ctf_platforms.txt
+<img src="https://cdn.simpleicons.org/nginx" width="55" height="55" />
+&nbsp;&nbsp;
 
-```
-[*] Hack The Box      → Active
-[*] TryHackMe         → Active
-[*] PicoCTF           → Competed
-[*] OverTheWire       → Wargames Practice
-```
+<img src="https://cdn.simpleicons.org/wireshark" width="55" height="55" />
+&nbsp;&nbsp;
 
----
+<img src="https://cdn.simpleicons.org/nmap" width="55" height="55" />
+&nbsp;&nbsp;
 
-## $ netstat -active-learning
+<img src="https://cdn.simpleicons.org/linux" width="55" height="55" />
 
-Currently studying:
-- `Wireless & Mobile Computing`
-- `Network & System Administration`
-- `Client-Server Computing`
-- `Network Operating Systems`
+</p>
 
 ---
 
-## $ connect --with-me
+## 🔧 Other Tools & Languages
 
-<div align="center">
+<p align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+<img src="https://skillicons.dev/icons?i=python" width="55" height="55" />
+&nbsp;&nbsp;
 
-</div>
+<img src="https://skillicons.dev/icons?i=bash" width="55" height="55" />
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=powershell" width="55" height="55" />
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" />
+
+</p>
 
 ---
 
-<div align="center">
+## 🚨 SOC Skills
 
-```
-"Security is not a product, but a process." — Bruce Schneier
-```
+🔍 **Log Analysis**  
+🚨 **Incident Response**  
+🕵️ **Threat Hunting**  
+📊 **SIEM Monitoring**  
+🌐 **Network Traffic Analysis**  
+🧪 **Malware Analysis**  
+🎯 **MITRE ATT&CK**  
+🔐 **Vulnerability Assessment**  
+🧠 **Threat Intelligence**
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+---
 
-</div>
+## 📚 Currently Learning
+
+<p align="left">
+
+🔹 Security Operations Center (SOC)<br>
+🔹 SIEM & Detection Engineering<br>
+🔹 Digital Forensics<br>
+🔹 Threat Intelligence<br>
+🔹 Network Security<br>
+🔹 Incident Response
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<p align="left">
+
+🔹 <b>SOC Home Lab</b><br>
+Security monitoring and incident investigation laboratory.
+
+<br>
+
+🔹 <b>SIEM Lab</b><br>
+Log collection, correlation and security alert investigation.
+
+<br>
+
+🔹 <b>Network Traffic Analysis</b><br>
+Analyzing PCAP files and identifying suspicious network activity.
+
+<br>
+
+🔹 <b>Threat Hunting Lab</b><br>
+Investigating indicators of compromise and suspicious behavior.
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/linkedin" width="50" height="50" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/github" width="50" height="50" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" width="50" height="50" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>🔐 Detect • Investigate • Respond • Defend</b>
+</p>
